@@ -8,6 +8,10 @@
   text-decoration: none;
 }
 
+.header h1 {
+  padding-left: 20px;
+}
+
 .main {
   padding: 20px;
 }
